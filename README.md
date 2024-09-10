@@ -1,6 +1,7 @@
 # About-Me
 
 This is a mobile application built using **React Native** that serves as a personal profile or "About Me" page. The app provides information and features relevant to a user's personal details.
+Its gonna contain my creation that i edit w/ Adobe After Effect, Premiere Pro, Photoshop, etc.
 
 ## Features
 
