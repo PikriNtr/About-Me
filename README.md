@@ -14,13 +14,13 @@ This is a mobile application built using **React Native** that serves as a perso
    ```bash
    git clone https://github.com/PikriNtr/About-Me.git
 2. Navigate to the project:
-   ```
+   ```bash
    cd About-Me
 3. Install the dependencies:
-   ```
+   ```bash
    npm install
 4. Start the Live Preview
-   ```
+   ```bash
    npx expo start
 
 ## Usage
