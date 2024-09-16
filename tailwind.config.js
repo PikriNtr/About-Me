@@ -5,8 +5,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#161622',
-        secondary: '#ffffff',
+        'white': '#ffffff',
+        'yellow': '#eab308',
+        'bg': '#101019',
+        'primary': '#2f27ce',
+        'secondary': '#dddbff',
+        'accent': '#443dff',
       },
       fontFamily: {
         pregular: ['Poppins-Regular', 'sans-serif'],
